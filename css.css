@@ -1,0 +1,13 @@
+.show_arr {
+    height: auto;
+    display: flex;
+    background: black;
+}
+
+.show_arr p {
+    width: 40px;
+    height: auto;
+    background: aliceblue;
+    text-align: center;
+    border: 2px solid;
+}
